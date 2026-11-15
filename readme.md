@@ -5,7 +5,7 @@
 
 | Field | Detail |
 |---|---|
-| **Pentester Name** | **Demiladde Agunbiade** |
+| **Pentester Name** | **Demilade Agunbiade** |
 | **Program/Batch** | B083-Networkwalks |
 | **Date** | 13 November 2026 |
 | **Modules completed** | W2-PM1 (Multiple Kali Tools)<br>W2-PM5 (Zenmap Scanning) |
