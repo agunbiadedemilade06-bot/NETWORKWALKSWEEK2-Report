@@ -152,10 +152,10 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 
 ![curl output](screenshots/curl.png)
 
-![wafw00f output](screenshots/wafw00f.png)
+![wafw00f output](screenshots/wafwoof.png)
 
 ![dnsrecon output](screenshots/dnsrecon.png)
 
-![Zenmap scan and topology](screenshots/zenmap2.png)
+![Zenmap scan and topology](screenshots/zenmap.png)
 
 -End-
